@@ -6,59 +6,50 @@ This repository documents my hands-on lab experience while preparing for the Com
 
 The labs will be completed in a virtualized environment and focus on practical IT support, Windows administration, troubleshooting, networking, security, Linux administration, operating system deployment, and automation.
 
-## Skills Demonstrated
+## Skills
 
-### IT Support
+- Computer Hardware
+- Windows Administration
+- Documentation
+- Customer Support
+- Linux Fundamentals
+- Help Desk Support
+- Troubleshooting
+- Networking
+- Security
+- PowerShell
 
-* Ticket Management
-* Customer Support Procedures
-* Documentation Practices
-* Remote Support
+## Lab Progress
 
-### Windows Administration
-
-* User Account Management
-* Windows Configuration
-* Software Installation
-* File Storage Management
-
-### Networking
-
-* TCP/IP Configuration
-* Network Security
-* Connectivity Troubleshooting
-* SOHO Network Support
-
-### Security
-
-* Account Security
-* Endpoint Protection
-* Browser Security
-* Incident Response
+### Hardware
+- Explore the Lab Interface
+- Install USB Devices
+- Set Up a Desktop Computer
+- Choose and Install a Motherboard
+- Upgrade a Video Card
+- Configure Dual Monitors
+- Configure an A/V Workstation
+- Install a Power Supply
+- Troubleshoot Power Supply Problems
+- Install SATA Devices
+- Install Memory
+- Configure Triple Channel Memory
+- Troubleshoot Memory
 
 ### Operating Systems
+*(To be added)*
 
-* Windows Installation and Upgrades
-* Linux Administration
-* OS Troubleshooting
+### Networking
+*(To be added)*
 
-### Automation
+### Security
+*(To be added)*
 
-* PowerShell Scripting
+### Linux
+*(To be added)*
 
-## Lab Categories
-
-| Category               | Topics Covered                        |
-| ---------------------- | ------------------------------------- |
-| Help Desk Support      | Ticket Management and Documentation   |
-| Windows Configuration  | Desktop and Application Configuration |
-| Windows Administration | User Accounts, Storage, Networking    |
-| Troubleshooting        | Windows and Network Diagnostics       |
-| Security               | Domain Security and Hardening         |
-| OS Deployment          | Installation and Upgrade Support      |
-| Linux Administration   | Configuration and Package Management  |
-| Backup & Recovery      | Data Protection and Incident Response |
-| PowerShell             | Basic Automation and Scripting        |
+### PowerShell
+*(To be added)*
 
 ## Tools Used
 
